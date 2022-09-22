@@ -1,0 +1,9 @@
+{
+  "token": "Token de l'app",
+  "prefix": "Prefix pour faire applelle à l'app",
+  "tmc_color": "couleur de l'écriture du terminal (peut être écrit en français :) )",
+  "tmc_connect": "true; astral.connect($connectIP)" //config du serveur distant NE PAS TOUCHER SI VOUS NE SAVEZ PAS UTILISER !,
+  "tmc_env": "false" // true; <variable> si vous voulez l'utiliser.,
+  "tmc_dev": "end.tmc.login($Password;$login)"
+  
+}
