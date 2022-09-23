@@ -74,7 +74,7 @@ astral.ts('db.connect');
 db.on{
   Login: "",
   Password: ""
-} //Créé vous un compte sur https://astral.netlify.app/db
+} //Créé vous un compte sur http://astral.ga/db.html
 
 Integer: //Juste la pour décoré..
 
@@ -116,7 +116,7 @@ const dev = require("astral.js@dev4.0")
 const astral.start {
   Token: "",
   Api: ""
-  //fichier complètement customisable (voir https://astral.be) 
+  //fichier complètement customisable (voir http://astral.ga) 
 }
 
   const import = require("astral.db")
